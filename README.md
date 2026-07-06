@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Patrick
 
-<!--
-**PatrickG04/PatrickG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics and Computer Science student at Saint Mary's University, graduating in 2027.
 
-Here are some ideas to get you started:
+I'm interested in software development, data systems, dashboards, and practical internal tools that help people understand operations and make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+During my IT/Data Systems internship, I built TallyBoard 2026, an internal ASP.NET Core production dashboard for monitoring manufacturing activity, workcenter targets, job progress, scan freshness, and production-floor status.
+
+The project involved C#/.NET, SQL Server, Razor Pages, HTML/CSS, JavaScript, testing, documentation, and deployment handoff work.
+
+## Technical interests
+
+- C# / .NET
+- SQL Server and database-backed applications
+- Internal tools and dashboards
+- Data visualization
+- Web applications
+- Testing and documentation
+
+## Currently learning
+
+- Artificial Intelligence
+- Information Visualization
+- Computer Game Design / Development
